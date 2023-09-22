@@ -1,0 +1,8 @@
+search bar admin can search by name
+
+filtre by salaire and age  <  >
+
+can edit and delit user and activat desactivat user   (if desactivated he can connect but will found that hes blocked)
+
+admin can add new user
+
